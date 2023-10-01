@@ -5,3 +5,6 @@ Volleyball
 Football
 Shuttle
 Ko-Ko
+
+Golf
+Soccer
